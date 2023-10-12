@@ -19,14 +19,6 @@ const config: MenuEntry[] = [
         label: 'Liquidity',
         href: '/pool',
       },
-      {
-        label: 'Testnet NSwap',
-        href: 'https://nswap.nhancv.com',
-      },
-      {
-        label: 'DApp',
-        href: 'https://dapp.nhancv.com',
-      },
     ],
   },
 ]
