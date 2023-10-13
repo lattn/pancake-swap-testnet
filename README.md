@@ -132,7 +132,7 @@ yarn build
 - PancakeFactory:  0xbB573aE66C2918160E364E58Fe3a9aB276032C86
 - INIT_CODE_HASH:  0x5555de950e51ae76c327ec1b6210c42d7d1c3f751bd35ab4c0a1d85b5c99b19a
 - PancakeRouter01: 0x9c34b8683449b249c672481722F8C08714D9c791
-- PancakeRouter:   0xF123Fc3d472d9664a23dE646603E1C99Ea00cED9
+- PancakeRouter:   0x8c65c93DA18EDA6787b5BE66FfB3f3B78E371e5e
 - Frontend:        https://pcs.nhancv.com 
 
 **Tokens**
